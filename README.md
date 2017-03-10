@@ -11,7 +11,7 @@ Currently supported:
 * MSDN
 
 ### Usage
-Drag it into Chrome extensions page to install it.
+Open Chrome extensions page, check **Developer mode** checkbox, click **Load unpacked extension**, select the directory where extension lies. Then you are good to go.
 
 ### Known Issues
 * Can't get keywords while page loading
